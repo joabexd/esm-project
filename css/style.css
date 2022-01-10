@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Lekton:wght@700&family=Work+Sans:wght@100&display=swap");
+
+* {
+  font-family: "Lekton", sans-serif;
+}
+
+html,
+body {
+  margin: 0px 0px 0px 0px;
+  min-height: 100%;
+}
+
+.bg {
+  background: url("../img/backg.gif") no-repeat;
+  background-size: cover;
+  margin: 0px;
+}
+
+.form-box,
+.form-box-cad {
+  padding: 40px 80px;
+  margin-top: 15vh;
+  box-shadow: 12px 12px 40px -8px #7690f7;
+}
+
+.form-box-cad {
+  margin-top: 10vh;
+}
+
+.align {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.checkbox,
+.form-group {
+  padding: 5px;
+}
+
+h1,
+h2,
+label,
+p {
+  text-shadow: 4px 2px 5px #a0b5fa;
+}
+
+.cad-box {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#welcome {
+  text-decoration: underline;
+}
+
+h2 {
+  padding-top: 15vh;
+  text-align: center;
+}
+
+.tfin,
+#welcome {
+  font-style: italic;
+}
+
+#ou {
+  margin: 0px;
+}
